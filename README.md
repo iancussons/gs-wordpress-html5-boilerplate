@@ -5,7 +5,7 @@ This is a blank WP theme for use in projects, based on ['Starkers'](http://stark
 
 Build for speed and customisability, this is a great blank light-weight theme to start plugging in your own designs into. 
 
-Snippets and useful functions used daily in a real-world agency environment and have been included in this repo, enjoy! 
+The theme comes brewred with useful snippets and functions including a cookie notification bar that is used daily in a real-world agency environment.
 
 28.11.2012 - Wordpress version 3.42
 ----------------------------------
