@@ -1,0 +1,121 @@
+/*
+Theme Name: greensplash HTML5 boilerplate
+Theme URI: http://greensplashdesign.com
+Description: A faster, leaner and forked version of <a href="http://starkerstheme.com">Stakers</a>!
+Version: 3.3
+Author: Simon MacFadyen
+Author URI: http://macfadyen.org
+Tags: html5, clean, slate, boilerplate
+*/
+
+body {
+	background: #B2C660;
+}
+hr { 
+	border: 0; 
+	height: 0; 
+	border-top: 1px solid rgba(0, 0, 0, 0.1); 
+	border-bottom: 1px solid rgba(255, 255, 255, 0.3); 
+}
+.left { 
+	float: left; }
+.right { 
+	float: right; }
+.clear {
+	clear: both; }
+
+.container {
+	max-width: 960px;
+	margin: 5% auto;
+	padding: 25px;
+	background: white;
+	
+	-webkit-box-shadow: 0px 10px 50px rgba(50, 50, 50, 0.75);
+	-moz-box-shadow:    0px 10px 50px rgba(50, 50, 50, 0.75);
+	box-shadow:         0px 10px 50px rgba(50, 50, 50, 0.75);
+}
+
+a { color: #333; }
+	a:hover { color: #ccc; }
+
+/*==========================================================================
+01 - cookie table styles - see privacy &/or cookie policy page (eg: http://greensplashdesign.com/privacy-policy/)
+==========================================================================*/
+ 
+ 
+ .cookie-data-table
+ {
+    width: 100%;
+    font-size: 12px;
+ }
+   
+    
+    .cookie-data-table tr
+    {
+        text-align: left;
+    }
+    
+        .cookie-data-table thead tr th
+        {
+            padding: 2px 10px 2px 0;
+            background: #d0eaf0;
+        }
+        
+        .cookie-data-table tr td
+        {
+            padding: 2px 10px 2px 0;
+        }
+
+    
+
+/*==========================================================================
+02 - cookie notification styles
+==========================================================================*/
+ 
+ #easyNotification
+ {
+    background: #333;
+    border-bottom: 1px solid #333;
+    padding: 3px 0 2px 0;
+    text-align: center;
+    color: #fff;
+    font-size: 11px;
+ }
+ 
+    #easyNotification a
+    {
+       color: #a5edff;
+       text-decoration: none;
+    }
+ 
+       #easyNotification a:hover
+       {
+          color: #fff;
+       }
+       
+    #easyNotification .close
+    {
+        margin: 0 0 0 5px;
+        padding: 0;
+        height: 16px;
+        width: 16px;
+        cursor: pointer;
+        background: white;
+        color: black;
+        padding: 2px 4px 1px 4px;
+        -webkit-border-radius: 3px;
+        -moz-border-radius: 3px;
+        border-radius: 3px;
+    }
+    
+        #easyNotification .close:hover
+        {
+            background: #649701;
+
+        }
+
+ 
+/*==========================================================================
+Template layout, styles, etc.
+==========================================================================*/
+
